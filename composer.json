@@ -3,9 +3,7 @@
   "description": "my own self built mvc model",
   "require": {
     "php": ">=8.2",
-    "ext-pdo": "*",
-    "slim/slim": "2.4.*",
-    "slim/extras": "*"
+    "ext-pdo": "*"
   },
   "license": "MIT",
   "authors": [
