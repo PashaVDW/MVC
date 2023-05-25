@@ -10,13 +10,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "John Doe",
-      "email": "john.doe@somedomain.com"
+      "name": "Pasha Ahmad",
+      "email": "pasha.pasha12e@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "SampleApp\\": "app/lib/"
+      "SampleApp\\": "App/lib/"
     }
   },
   "archive": {
