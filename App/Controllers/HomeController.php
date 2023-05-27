@@ -2,7 +2,7 @@
 
 namespace Controller;
 
-class Controller
+class HomeController
 {
     public function __construct()
     {
