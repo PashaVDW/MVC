@@ -2,4 +2,4 @@
 
 use Core\Router;
 
-Router::get('/', 'HomeController@index');
+Router::get('/', 'App/Controllers/HomeController.php');
