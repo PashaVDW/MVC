@@ -12,8 +12,3 @@ require_once dirname(__FILE__) . '/../vendor/autoload.php';
  */
 $dotenv = Dotenv::createImmutable(__DIR__ . '/..');
 $dotenv->safeLoad();
-
-/**
- *  Initialize the Router
- */
-

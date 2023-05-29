@@ -8,6 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Vendor/phpoption/phpoption" />
       <excludeFolder url="file://$MODULE_DIR$/Vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/Vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/Vendor/twig/twig" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

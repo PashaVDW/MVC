@@ -18,6 +18,7 @@
       <path value="$PROJECT_DIR$/Vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/Vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/Vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/Vendor/twig/twig" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />

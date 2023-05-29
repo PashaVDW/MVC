@@ -3,6 +3,7 @@
   "description": "my own self built mvc model",
   "require": {
     "php": ">=8.2",
+    "twig/twig": "~3.0",
     "ext-pdo": "*",
     "vlucas/phpdotenv": "^5.5"
   },
