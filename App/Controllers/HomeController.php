@@ -12,6 +12,7 @@ class HomeController
     }
 
     public function index() {
+
         Router::renderTemplate('/layouts/app.view.php');
     }
 }
